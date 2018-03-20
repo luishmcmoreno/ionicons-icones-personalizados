@@ -1,5 +1,9 @@
 # Configurando Ionicons Personalizados em um projeto Ionic
 
+Segue abaixo as instruções utilizadas para customizar ícones no Ionic. 
+
+[Veja a vídeoaula:](https://youtu.be/J0ATc8bG9Tk)
+
 ## Prérequisitos 
 
 ruby, python, fontforge, ttfautohint, sass, svgo, woff-tools, brotli, woff2
